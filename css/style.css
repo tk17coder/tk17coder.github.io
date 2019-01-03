@@ -28,14 +28,14 @@
    */
   
   ::-moz-selection {
-    background: #f2c2c9;
-    color: #a4003a;
+    background: #5d4c46;
+    color: #f2edd8;
     text-shadow: none;
   }
   
   ::selection {
-    background: #16a085;
-    color: #a4003a;
+    background: #5d4c46;
+    color: #f2edd8;
     text-shadow: none;
   }
   
@@ -122,7 +122,7 @@
   }
   
   .navbar-default li.active a {
-    background-color: #16a085 !important;
+    background-color: #5d4c46 !important;
     color: #fff !important;
   }
   
@@ -170,7 +170,7 @@
   
   .paragraph-lead {
     font-size: 20px;
-    color: #3bc492;
+    color: #5d4c46;
   }
   
   strong {
@@ -206,7 +206,7 @@
     position: relative;
     margin: 0 0 40px -30px;
     padding-left: 30px;
-    border-left: 5px solid #3bc492;
+    border-left: 5px solid #5d4c46;
   }
   
   blockquote cite {
@@ -232,7 +232,7 @@
   /* Links */
   
   a {
-    color: #3bc492;
+    color: #5d4c46;
     word-wrap: break-word;
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
     -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -437,7 +437,7 @@
   .service-trigger:before {
     width: 100%;
     top: 50px;
-    color: #3bc492;
+    color: #5d4c46;
     font-size: 36px;
     text-align: center;
     position: absolute;
