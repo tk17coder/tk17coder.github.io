@@ -260,7 +260,7 @@
      ========================================================================== */
   
   #headerwrap {
-    background: url(../img/helpmongolia_medium.png) no-repeat center top;
+    background: url(../img/home.jpg) no-repeat center top;
     margin-top: -50px;
     padding-top: 120px;
     text-align: center;
@@ -809,6 +809,12 @@
   
   .credits {
     color: #999;
+  }
+
+  iframe {
+    width: 100%;
+    min-height: 100px;
+    height: 400px;
   }
   
   /* ==========================================================================
